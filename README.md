@@ -12,6 +12,9 @@
   <a href="https://github.com/Yunsuhee">
     <img src="https://avatars.githubusercontent.com/u/97869193?v=4" width="80" style="max-width:100%;">
   </a>
+  <a href="https://github.com/mkwkw">
+    <img src="![image](https://github.com/user-attachments/assets/9db0f294-8c68-4346-824e-36c6b83d0721)" width="80" style="max-width:100%;">
+  </a>
 </div>
 
 ### 🔥 진행 목표
